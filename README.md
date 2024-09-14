@@ -12,6 +12,8 @@ If you’ve stumbled upon this page, you probably know I’m all about efficienc
 
 In my world, enjoyment and productivity go hand in hand. If something isn’t fun or engaging, it simply won’t yield the best results—and that’s a no-go for me. I strive to make every challenge an opportunity to learn, grow, and have fun while doing it.
 
+Leave the ego at home and learn something. If you have a better solution, show me. If my solution sucks, call it out. If we all had the perfect solution, there would be no point.
+
 ---
 
 ## 🔅 My Mantra

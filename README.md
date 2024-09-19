@@ -14,6 +14,34 @@ In my world, enjoyment and productivity go hand in hand. If something isn’t fu
 
 Leave the ego at home and learn something. If you have a better solution, show me. If my solution sucks, call it out. If we all had the perfect solution, there would be no point.
 
+[![Windows](https://img.shields.io/badge/-Windows-141414?style=flat&logo=windows)](https://www.microsoft.com/windows)
+[![Debian](https://img.shields.io/badge/-Debian-141414?style=flat&logo=debian)](https://www.debian.org/)
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu-141414?style=flat&logo=ubuntu)](https://ubuntu.com/)
+[![Alpine](https://img.shields.io/badge/-Alpine%20Linux-141414?style=flat&logo=alpinelinux)](https://www.alpinelinux.org/)
+[![AWS](https://img.shields.io/badge/-AWS-141414?style=flat&logo=amazonaws)](https://aws.amazon.com/)
+[![Azure](https://img.shields.io/badge/-Azure-141414?style=flat&logo=microsoftazure)](https://azure.microsoft.com)
+[![Azure Runbooks](https://img.shields.io/badge/-Azure%20Runbooks-141414?style=flat&logo=microsoftazure)](https://learn.microsoft.com/en-us/azure/automation/automation-runbook-types)
+[![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-141414?style=flat&logo=azuredevops)](https://azure.microsoft.com/en-us/services/devops/)
+[![VSTS/TFS](https://img.shields.io/badge/-VSTS/TFS-141414?style=flat&logo=tfs)](https://visualstudio.microsoft.com/tfs/)
+[![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-141414?style=flat&logo=githubactions)](https://github.com/features/actions)
+[![GitLab](https://img.shields.io/badge/-GitLab%20CI-141414?style=flat&logo=gitlab)](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/)
+[![Jenkins](https://img.shields.io/badge/-Jenkins-141414?style=flat&logo=jenkins)](https://www.jenkins.io/)
+[![Powershell](https://img.shields.io/badge/-Powershell-141414?style=flat&logo=powershell)](https://learn.microsoft.com/en-us/powershell/)
+[![Bash](https://img.shields.io/badge/-Bash-141414?style=flat&logo=gnu-bash)](https://www.gnu.org/software/bash/)
+[![Terraform](https://img.shields.io/badge/-Terraform-141414?style=flat&logo=terraform)](https://www.terraform.io/)
+[![SQL](https://img.shields.io/badge/-SQL-141414?style=flat&logo=microsoftsqlserver)](https://www.microsoft.com/en-us/sql-server)
+[![AZSQL](https://img.shields.io/badge/-Azure%20SQL-141414?style=flat&logo=microsoftazure)](https://azure.microsoft.com/services/sql-database/)
+[![Postgres](https://img.shields.io/badge/-PostgreSQL-141414?style=flat&logo=postgresql)](https://www.postgresql.org/)
+[![RDS](https://img.shields.io/badge/-AWS%20RDS-141414?style=flat&logo=amazonrds)](https://aws.amazon.com/rds/)
+[![Git](https://img.shields.io/badge/-Git-141414?style=flat&logo=git)](https://git-scm.com/)
+[![SVN](https://img.shields.io/badge/-Subversion-141414?style=flat&logo=subversion)](https://subversion.apache.org/)
+[![PagerDuty](https://img.shields.io/badge/-PagerDuty-141414?style=flat&logo=pagerduty)](https://www.pagerduty.com/)
+[![Grafana](https://img.shields.io/badge/-Grafana-141414?style=flat&logo=grafana)](https://grafana.com/)
+[![Prometheus](https://img.shields.io/badge/-Prometheus-141414?style=flat&logo=prometheus)](https://prometheus.io/)
+[![Blender](https://img.shields.io/badge/-Blender-141414?style=flat&logo=blender)](https://www.blender.org/)
+[![SFM](https://img.shields.io/badge/-Source%20Filmmaker-141414?style=flat&logo=source-engine)](https://sourcefilmmaker.com/)
+[![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-141414?style=flat&logo=unreal-engine)](https://www.unrealengine.com/)
+
 ---
 
 ## 🔅 My Mantra
@@ -33,3 +61,5 @@ For security reasons, just hit me up on Discord or LinkedIn. I've had the same p
 ## 📊 GitHub Stats
 [![My stats](https://github-readme-stats.vercel.app/api?username=xander-rudolph&theme=dark&show_icons=true&count_private=true)](https://github.com/Xander-Rudolph)
 [![My stats](https://github-readme-streak-stats.herokuapp.com/?user=xander-rudolph&theme=dark&show_icons=true&count_private=true)](https://github.com/Xander-Rudolph)
+
+![](https://komarev.com/ghpvc/?username=xander-rudolph)

@@ -57,6 +57,9 @@ As a DevOps engineer, I believe my ultimate goal is to "automate myself out of a
 For security reasons, just hit me up on Discord or LinkedIn. I've had the same phone number since I was a child and I'm not giving it up to scammers/spammers. I will NOT let them win!
 
 ---
+## Some TLDR (but really, you should)
+
+- [Asking smart questions](http://www.catb.org/~esr/faqs/smart-questions.html)
 
 ## 📊 GitHub Stats
 [![My stats](https://github-readme-stats.vercel.app/api?username=xander-rudolph&theme=dark&show_icons=true&count_private=true)](https://github.com/Xander-Rudolph)

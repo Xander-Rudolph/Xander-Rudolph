@@ -66,3 +66,5 @@ For security reasons, just hit me up on Discord or LinkedIn. I've had the same p
 [![My stats](https://github-readme-streak-stats.herokuapp.com/?user=xander-rudolph&theme=dark&show_icons=true&count_private=true)](https://github.com/Xander-Rudolph)
 
 ![](https://komarev.com/ghpvc/?username=xander-rudolph)
+
+[The true meaning of git](https://github.com/git/git/blob/e83c5163316f89bfbde7d9ab23ca2e25604af290/README#L13)

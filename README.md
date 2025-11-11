@@ -63,6 +63,4 @@ For security reasons, just hit me up on Discord or LinkedIn. I've had the same p
 
 ## 📊 GitHub Stats
 [![My stats](https://github-readme-stats.vercel.app/api?username=xander-rudolph&theme=dark&show_icons=true&count_private=true)](https://github.com/Xander-Rudolph)
-[![My stats](https://github-readme-streak-stats.herokuapp.com/?user=xander-rudolph&theme=dark&show_icons=true&count_private=true)](https://github.com/Xander-Rudolph)
-
-![](https://komarev.com/ghpvc/?username=xander-rudolph)
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Xander-Rudolph" alt="Xander-Rudolph" />
